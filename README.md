@@ -73,3 +73,8 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+## Why version control matters for analytics
+
+Version control is important because it provides documentation of a project. Each step in the project can be tracked through a new version. In the readings, I also learned how version control allows multiple people to work on the same project at once by using different branches.
